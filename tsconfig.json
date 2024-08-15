@@ -3,6 +3,7 @@
         "target": "ES6",
         "module": "commonjs",
         "removeComments": true,
-        "esModuleInterop": true //DÙng được từ khóa import thay cho require
+        "esModuleInterop": true, //DÙng được từ khóa import thay cho require
+        "outDir": "dist"
     }
 }
